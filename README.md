@@ -46,7 +46,7 @@ OBS outputs to MP4 by default, you don't need to change it!
 
 ### Streamlabs
 
-[Streamlabs](https://streamlabs.com/) is a live streaming software for Windows that is built on top of with OBS. It also allows you to record and save your stream. 
+[Streamlabs](https://streamlabs.com/) is a live streaming software for Windows that is built on top of OBS. It also allows you to record and save your stream. 
 
 To download Streamlabs OBS, please visit https://streamlabs.com/slobs/download. When you run SLOBS the first time it should run a wizard. If prompted, check the resolution is at least 1080p and that you're optimizing for recording quality, not streaming speed.
 
