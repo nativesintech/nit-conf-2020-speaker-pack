@@ -90,4 +90,4 @@ If you have your own space to host your video where we can download it (such as 
 
 If you have a Google account that you're comfortable signing in with, you can drop your presentation in to [this dropbox](https://drive.google.com/drive/folders/1hrT3D_XS3mn22tS6lDhgLYw9Qe54-8zY?usp=sharing) after signing in.
 
-If you'd prefer not to have a Google account, no problem! Please email [operator@hoverbear.org](mailto:operator@hoverbear.org) and we will set up a bucket for you to upload to with [`s3cmd`](https://github.com/s3tools/s3cmd).
+If you'd prefer not to have a Google account, no problem! Please email [ana@nativesintech.org](mailto:ana@nativesintech.org) and we will set up a bucket for you to upload to with [`s3cmd`](https://github.com/s3tools/s3cmd).
